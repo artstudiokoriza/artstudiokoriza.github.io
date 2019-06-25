@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Art Studio KORIZA",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2077,8 +2077,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-33-743x1023.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-33-743x1023-743x1023.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-33-738x981.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-33-738x981-738x981.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
