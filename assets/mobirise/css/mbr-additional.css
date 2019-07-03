@@ -1809,7 +1809,7 @@ body {
 .cid-rv7BFJ9inh {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #82786e;
 }
 .cid-rv7BFJ9inh .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1851,7 +1851,7 @@ body {
   background: transparent !important;
 }
 .cid-rv7BFJ9inh .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.5 !important;
 }
 .cid-rv7BFJ9inh .mbr-gallery-title {
   font-size: .9em;
@@ -1872,7 +1872,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
