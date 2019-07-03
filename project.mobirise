@@ -2274,7 +2274,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-2000x27461.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x27462.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x2746-800x1098.jpg",
                 "alt": "",
                 "title": "",
